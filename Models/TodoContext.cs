@@ -9,6 +9,6 @@ namespace TodoAPI.Models
         {
         }
 
-        public DbSet<TodoItem> TodoItes { get; set; }
+        public DbSet<TodoItem> TodoItems { get; set; } // TodoItes
     }
 }
